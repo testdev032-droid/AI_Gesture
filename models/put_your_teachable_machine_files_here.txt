@@ -1,0 +1,3 @@
+Add your exported Teachable Machine Keras files here:
+- keras_model.h5
+- labels.txt

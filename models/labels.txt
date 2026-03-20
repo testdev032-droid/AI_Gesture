@@ -1,0 +1,4 @@
+0 palm
+1 thumbs up
+2 pointer
+3 peace
